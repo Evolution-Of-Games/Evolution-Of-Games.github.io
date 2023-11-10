@@ -1,23 +1,3 @@
-#Updated 7th October 2023
-#Appodeal
-appodeal.com, 29883, DIRECT
-#BidMachine
-bidmachine.io, 29883, DIRECT
-#AdMob
-#Replace the Publisher_ID below with your Admob Publisher ID
-google.com, pub-1228506658135068, DIRECT, f08c47fec0942fa0
-#Add other networks if applicable
-
-applovin.com, 5ac147957efbe709fa839072612f0181, DIRECT
-loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
-rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
-pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
-pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
-pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
-xandr.com, 13799, RESELLER
-media.net, 8CUD06Z68, RESELLER
-
 inmobi.com, 59cab733dbba406a993a7825e6e4cf73, DIRECT, 83e75a7ae333ca9d
 inmobi.com, fafa1521dbdb43f69b1eb199a0b007fd, RESELLER, 83e75a7ae333ca9d
 rubiconproject.com, 11726, RESELLER, 0bfd66d529a55807
@@ -78,6 +58,29 @@ markappmedia.site, 587286, RESELLER
 keenkale.com, 841, RESELLER
 admanmedia.com, 2063, RESELLER
 Peak226.com, 12700, RESELLER
+
+
+#Updated 7th October 2023
+#Appodeal
+appodeal.com, 29883, DIRECT
+#BidMachine
+bidmachine.io, 29883, DIRECT
+#AdMob
+#Replace the Publisher_ID below with your Admob Publisher ID
+google.com, pub-1228506658135068, DIRECT, f08c47fec0942fa0
+#Add other networks if applicable
+
+applovin.com, 5ac147957efbe709fa839072612f0181, DIRECT
+loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+xandr.com, 13799, RESELLER
+media.net, 8CUD06Z68, RESELLER
+
+
  
 
 ironsrc.com, 269967, Direct

@@ -647,7 +647,7 @@ sonobi.com, 45dd948092, RESELLER, d1a215d9eb5aee9e
 inmobi.com, fafa1521dbdb43f69b1eb199a0b007fd, RESELLER, 83e75a7ae333ca9d
 
 #YANDEX
-yandex.com, 314610787, DIRECT
+yandex.com, 315197973, DIRECT
 betweendigital.com, 43554, RESELLER
 openx.com, 541177349, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 159668, RESELLER, 5d62403b186f2ace

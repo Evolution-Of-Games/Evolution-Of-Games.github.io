@@ -3,7 +3,7 @@
   "sellers": [
     {
       "seller_id": "pub-1228506658135068",
-      "is_confidential": 0,
+      "is_confidential": 1,
       "seller_type": "PUBLISHER",
       "name": "Луговских Роман Александрович",
       "domain": "evolution-of-games.github.io"
